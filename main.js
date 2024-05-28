@@ -40,4 +40,14 @@ constperguntas=[
            "messi",
         ]
        },
-    ];
+      ];
+
+let atual=0;
+let perguntasAtual;
+
+function mostraPerguntas(){
+   perguntasAtual=perguntas[atual];
+   caixaperguntas.textConstent = perguntasAtual.enunciado;
+}
+
+mostraPerguntas();
