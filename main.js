@@ -51,3 +51,15 @@ function mostraPerguntas(){
 }
 
 mostraPerguntas();
+
+
+<li class = "itens">pontualidade</li>
+<li class = "itens">limpeza</li>
+
+
+
+
+
+
+
+    </main>
