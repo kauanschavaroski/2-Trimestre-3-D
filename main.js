@@ -8,22 +8,22 @@ constperguntas=[
     {
         enunciado:"quem é mais bonito cr7 ou messi?",
         alternativas:[
-           "cr7",
-           "messi",
+           texto: "cr7",
+           texto: "messi",
         ]
        },
        {
         enunciado:"quem joga melhor cr7 ou messi?",
         alternativas:[
-           "cr7",
-           "messi",
+           texto: "cr7",
+           texto: "messi",
         ]
        },
        {
         enunciado:"quem é mais humilde?",
         alternativas:[
-           "cr7",
-           "messi",
+           texto: "cr7",
+            texto: "messi",
         ]
        },
        {
