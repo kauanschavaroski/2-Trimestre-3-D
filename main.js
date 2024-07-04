@@ -95,7 +95,6 @@ function mostraAlternativas() {
         caixaAlternativas.appendChild(botaoAlternativas);
     }
 }
-
 function respostaSelecionada(opcaoSelecionada){
             const afirmacoes = opcaoSelecionada.afirmacao; /* mudar para opcaoSelecionada.afirmacao*/
             historiaFinal = afirmacoes; /* += afirmacoes + " "; */
