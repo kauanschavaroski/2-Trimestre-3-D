@@ -32,5 +32,10 @@ button {
   border: nome;
   border-radius: 15px;
   padding:15px;
-  transition: backtground-color 0.3s;
+  transition: background-color 0.3s;
+}
+
+button:hpscer {
+  background.color:(--cor-destaque);
+  color: var(--cor-principal);
 }
