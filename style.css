@@ -5,3 +5,32 @@
   --cor-destaque: ;rgb(o,o,o);
   --cor-texto: ;rgb(0,0,0);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button {
+  background-color: var(---cor-secundaria);
+  color: var(--cor-texto);
+  border: nome;
+  border-radius: 15px;
+  padding:15px;
+  transition: backtground-color 0.3s;
+}
