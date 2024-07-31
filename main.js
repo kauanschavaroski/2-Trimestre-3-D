@@ -21,7 +21,6 @@ afirmação: "afirmação",-[8
         alternativas:[
            texto: "cr7",
            texto: "messi",
-        ]
        },
        {
         enunciado:"quem é mais humilde?",
