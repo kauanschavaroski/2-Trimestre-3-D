@@ -22,29 +22,32 @@ afirmação: "afirmação",-[8
            texto: "cr7",
            texto: "messi",
        },
-       {
         enunciado:"quem é mais humilde?",
-        alternativas:[
-           texto: "cr7",
-            texto: "messi",
-        ]
-       },
+        alternativas:["cr7","messi",
+        },
        {
         enunciado:"quem é mais rico?",
-        alternativas:[
-           "cr7",
-           "messi",
-        ]
-       },
-       {
+        alternativas:["cr7","messi",
+       }
+    ]
+},
+{
         enunciado:"quem é mais famoso?",
-        alternativas:[
-           "cr7",
-           "messi",
-        ]
-       },
-      ];
-
+        alternativas:["cr7","messi",
+        {
+       texto: "neymar ou leonardo picasso"
+      afirmação: "leonardo picasso"
+        },
+        {
+            texto: "gilherme vicent ou henrique junior"
+            afirmação: "vicent"
+        }
+        [
+        },
+        {
+            enunciado: "mirante é lugar bom de se morar"
+            afirmação:"sim ou nao"
+            
 let atual=0;
 let perguntasAtual;
 
